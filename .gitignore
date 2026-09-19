@@ -1,0 +1,10 @@
+# Logs and OS files
+*.log
+Thumbs.db
+.DS_Store
+
+# Large zip source (frames already extracted)
+videosssssssss.zip
+
+# WhatsApp reference image (not needed in repo)
+"WhatsApp Image 2026-09-19 at 8.30.12 PM (2).jpeg"

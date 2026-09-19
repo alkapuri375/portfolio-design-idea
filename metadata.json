@@ -1,0 +1,11 @@
+{
+  "source_video": "Man_standing_with_arms_crossed_20260919200255.mp4",
+  "source_fps": 24.0,
+  "source_resolution": "1280x720",
+  "source_frame_count": 240,
+  "duration_seconds": 10.0,
+  "export_fps": 24.0,
+  "exported_frames": 240,
+  "format": "PNG (lossless)",
+  "note": "Frames retain the source video's native decoded resolution; no resizing was applied."
+}
